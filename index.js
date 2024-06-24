@@ -1,5 +1,5 @@
 /*
-. Write a program that declares a variable price as a number, product as a string, and isAvailable as a boolean. Print their data types to the console.
+1. Write a program that declares a variable price as a number, product as a string, and isAvailable as a boolean. Print their data types to the console.
 2. Write a program that declares an array of numbers and a constant object representing a car with properties make, model, and year. Modify one of the properties of the object and print the updated object to the console.
 3. Write a program that compares two variables a and b using both == and ===. Print the result of each comparison to the console and explain the difference.
 4. Write a program that checks if a string str1 is lexicographically smaller than another string str2. Print the result to the console.
